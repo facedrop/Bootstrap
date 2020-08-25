@@ -1,0 +1,50 @@
+body {
+    background-color: #ffb3cc;
+}
+
+.blurb  h2 {
+    color: red;
+    font-weight: 100;
+    font-size: 2.5rem;
+}
+
+.blurb p {
+    color: red;
+}
+
+#mainNav .navbar-brand {
+    font-family: 'Montserrat', sans-serif;  
+    color: red; 
+}
+
+#mainNav .navbar-brand {
+    font-weight: 100;
+    font-size: 1.5rem;
+}
+
+#mainNav .nav-link:hover {
+    color: red;
+}
+
+#mainNav .nav-link {
+    color: white;
+}
+
+#headingGroup span {
+    color: red;
+}
+
+#headingGroup h1 {
+    font-weight: 100;
+    font-size: 4rem;
+}
+.navbar.scrolled {
+    background: rgb(222, 192, 222);
+}
+
+@media (max-width: 1200px) {
+    #headingGroup h1 {
+        font-weight: 100;
+        font-size: 3rem;
+    }
+}
